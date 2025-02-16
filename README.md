@@ -1,4 +1,4 @@
-# Aplicación Móvil de Venta y Configuración de Dispositivos
+# Aplicación Móvil de Venta
 
 Esta aplicación móvil, desarrollada en Kotlin, permite a los usuarios explorar dispositivos disponibles para la compra, personalizar sus características según sus preferencias y revisar sus compras anteriores. La aplicación se comunica con un servicio backend protegido mediante JWT para garantizar la seguridad en las transacciones.
 
