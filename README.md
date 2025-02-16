@@ -1,6 +1,6 @@
 # Aplicación Móvil de Venta
 
-Esta aplicación móvil, desarrollada en Kotlin, permite a los usuarios explorar dispositivos disponibles para la compra, personalizar sus características según sus preferencias y revisar sus compras anteriores. La aplicación se comunica con un servicio backend protegido mediante JWT para garantizar la seguridad en las transacciones.
+Esta aplicación móvil para android, desarrollada en Kotlin, permite a los usuarios explorar dispositivos disponibles para la compra, personalizar sus características según sus preferencias y revisar sus compras anteriores. La aplicación se comunica con un servicio backend protegido mediante JWT para garantizar la seguridad en las transacciones.
 
 ## Características
 
